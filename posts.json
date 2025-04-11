@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "user_id": 1,
+    "title": "Hello World",
+    "content": "This is my first blog post!",
+    "created_at": "2024-03-01T09:00:00Z"
+  },
+  {
+    "id": 2,
+    "user_id": 2,
+    "title": "Travel Tips",
+    "content": "Pack light and stay hydrated!",
+    "created_at": "2024-03-05T14:45:00Z"
+  }
+]
